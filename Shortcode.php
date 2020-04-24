@@ -1,6 +1,6 @@
 <?php
 
-namespace Pingpong\Shortcode;
+namespace MicVital\Shortcode;
 
 use Countable;
 use Illuminate\Container\Container;
