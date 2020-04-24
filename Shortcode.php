@@ -1,6 +1,6 @@
 <?php
 
-namespace MicVital\Shortcode;
+namespace Micvital\Shortcode;
 
 use Countable;
 use Illuminate\Container\Container;
